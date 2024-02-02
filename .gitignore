@@ -1,0 +1,5 @@
+# ide environment
+.idea/
+
+# python environment
+.venv/
